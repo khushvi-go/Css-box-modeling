@@ -1,0 +1,26 @@
+
+.warning-box{
+    background-color: rgb(227, 15, 15);  /*change : white*/
+    width: 350px;
+    height: 200px;
+
+    margin: auto;
+    margin-top: 1000px;
+    margin-bottom: 100px;
+
+    position: relative;
+
+
+    
+}
+
+.sign{
+    background-color: yellow;
+    height: 70px;
+    width: 70px
+}
+.warning-sign-with-heading{
+
+
+}
+
