@@ -25,7 +25,7 @@
     background-position: left 50px bottom;
     background-color: rgb(0, 0, 0);
 
-    background: linear-gradient(to right, black, grey);
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(85, 77, 77));
     
 
 }
@@ -109,12 +109,3 @@
 }
 
 
-/* Github test */
-body {
-    background-color: rgb(0, 136, 255);
-}
-
-
-/* WEb vs code test */
-
-/* i am in home in vs code desktop version */

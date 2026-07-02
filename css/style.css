@@ -39,7 +39,7 @@
     /* background-color: rgb(0, 255, 255); */
 
     
-    /* border-top: 50px solid red; */
+    border-top: 50px solid  transparent;
     border-right: 50px solid   transparent;
     border-left: 50px solid  transparent;
     border-bottom: 50px solid green ;

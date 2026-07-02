@@ -1,0 +1,12 @@
+.half-rectangle{
+    margin: 5rem auto;
+    background-color: red;
+    height: 400px;
+    width: 400px;
+
+    background: linear-gradient(
+        to bottom,
+        transparent 50%,
+        blue 50%
+    );
+}
